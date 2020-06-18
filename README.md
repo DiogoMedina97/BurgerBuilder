@@ -1,7 +1,7 @@
 <img src=".github/burger-builder.jpg" alt="Burger Builder" />
 
-# :hamburger: Burguer Builder
-The **Burguer Builder** is a website that allows people build sandwich with 4 differents ingredients: bacon :bacon:, cheese :cheese:, meat :cut_of_meat: and salad :green_salad:.
+# :hamburger: Burger Builder
+The **Burger Builder** is a website that allows people build sandwich with 4 differents ingredients: bacon :bacon:, cheese :cheese:, meat :cut_of_meat: and salad :green_salad:.
 
 # :hammer: Dependencies
 - [react](https://reactjs.org/)
